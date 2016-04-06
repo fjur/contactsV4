@@ -1,0 +1,22 @@
+.new-contact-form {
+  display: none;
+}
+
+.not-display{
+  display: none;
+}
+
+.display{
+  display: block;
+}
+
+.form-control{
+  margin-left: 5px;
+  width: 19%;
+  display: inline-block;
+}
+
+#form-button{
+  margin-left: 5px;
+  margin-top: 10px;
+}

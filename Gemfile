@@ -10,6 +10,9 @@ gem 'sinatra-activerecord'
 
 gem 'puma'
 gem 'tux'
+gem 'faker'
+gem 'json'
+gem 'handlebars_assets'
 
 group :development, :test do
   gem 'pry'
